@@ -120,7 +120,7 @@
 	left: 50%;
 	margin: -380px 0 0 -330px;
 	visibility: hidden;
-}
+} 
 
 .slideshow li.show {
 	visibility: visible;
